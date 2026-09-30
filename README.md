@@ -1,4 +1,4 @@
-# SAT-SA: Supervisory Analytics Tool for SOC Assessment
+﻿# SAT-SA: Supervisory Analytics Tool for SOC Assessment
 **Submission for SIH26157 (NCIIPC, NTRO, MIC)**
 
 ## Overview

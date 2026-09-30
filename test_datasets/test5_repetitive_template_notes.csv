@@ -1,0 +1,4 @@
+﻿alert_id,entity_id,entity_name,sector,asset_id,timestamp,closed_at,severity,category,source,status,disposition,case_id,escalated,analyst,sla_minutes,notes
+AL-5001,CSE-005,Epsilon Health,Healthcare,DB-01,2026-09-01T10:00:00Z,2026-09-01T11:00:00Z,high,access,SIEM,closed,false_positive,CS-501,false,Bot,60,Routine check applied.
+AL-5002,CSE-005,Epsilon Health,Healthcare,DB-02,2026-09-01T10:05:00Z,2026-09-01T11:05:00Z,high,access,SIEM,closed,false_positive,CS-502,false,Bot,60,Routine check applied.
+AL-5003,CSE-005,Epsilon Health,Healthcare,DB-03,2026-09-01T10:10:00Z,2026-09-01T11:10:00Z,high,access,SIEM,closed,false_positive,CS-503,false,Bot,60,Routine check applied.
